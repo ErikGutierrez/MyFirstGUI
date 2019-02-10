@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="cornerCheck" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="cornerCheck"/>
+			<item value="option"/>
+			<item value="Option"/>
+			<item value="Label"/>
+			<item value="DARK"/>
+			<item value="colorArray"/>
+			<item value="grid[x][y].get"/>
+			<item value="flag[x][y]"/>
+			<item value="hiddenInfo[x][y]"/>
+			<item value="proximity[x][y]"/>
+			<item value="mineNumbers"/>
+			<item value="mine[x][y]"/>
+			<item value="x1New"/>
+			<item value="y1New"/>
+			<item value="yNew"/>
+		</list>
+		<list key="replacehistory">
+			<item value="mine[x][y]"/>
+			<item value="flag"/>
+			<item value="hiddenInfo"/>
+			<item value="proximity"/>
+			<item value="mine"/>
+			<item value="x1RightClick"/>
+			<item value="y1RightClick"/>
+			<item value="yRightClick"/>
+			<item value="xRightClick"/>
+			<item value="myPanelRightClick"/>
+			<item value="myInsetsRightClick"/>
+			<item value="myFrameRightClick"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="336" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="451" key="DIALOG_HEIGHT"/>
+		<item value="1044" key="DIALOG_X_ORIGIN"/>
+		<item value="195" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/UPRM-CIIC4010-S18/minesweeper-sample-text.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="erikn &lt;erikn@10.32.31.135&gt;"/>
+		<item value="erikn &lt;erikn@Eriks-PC&gt;"/>
+		<item value="erikn &lt;erikn@10.31.9.67&gt;"/>
+		<item value="erikn &lt;erikn@10.31.18.218&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="erikn &lt;erikn@10.32.31.135&gt;"/>
+		<item value="erikn &lt;erikn@Eriks-PC&gt;"/>
+		<item value="erikn &lt;erikn@10.31.9.67&gt;"/>
+		<item value="erikn &lt;erikn@10.31.18.218&gt;"/>
+	</list>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="758" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="481" key="DIALOG_HEIGHT"/>
+		<item value="590" key="DIALOG_X_ORIGIN"/>
+		<item value="204" key="DIALOG_Y_ORIGIN"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.merge.MergeResultDialog.dialogBounds">
+		<item value="892" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="271" key="DIALOG_HEIGHT"/>
+		<item value="523" key="DIALOG_X_ORIGIN"/>
+		<item value="344" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.egit.ui.COMMIT_MESSAGE_EDITOR_DIALOG_SECTION">
+		<item value="706" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="375" key="DIALOG_HEIGHT"/>
+		<item value="616" key="DIALOG_X_ORIGIN"/>
+		<item value="274" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+	</section>
+	<section name="org.eclipse.egit.ui.internal.fetch.FetchResultDialog.dialogBounds">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="498" key="DIALOG_HEIGHT"/>
+		<item value="138" key="DIALOG_X_ORIGIN"/>
+		<item value="187" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
